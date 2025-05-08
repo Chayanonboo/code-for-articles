@@ -1,4 +1,6 @@
-Article of Microsoft Excel : https://chayanonboo.com/2024/12/17/5-steps-of-data-analysis-by-using-microsoft-excel/
+## Article of Microsoft Excel : 
+https://chayanonboo.com/2024/12/17/5-steps-of-data-analysis-by-using-microsoft-excel/
+
 ## IF function
 
 ## Discount Column
