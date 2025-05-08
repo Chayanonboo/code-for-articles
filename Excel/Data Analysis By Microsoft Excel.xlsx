@@ -1,14 +1,7 @@
 ## IF function
 
-```python
-j5_value = 25
-
-if j5_value >= 20:
-    result = "Y"
-else:
-    result = "N"
-
-print(result)
+```sql
+SELECT * FROM cus;
 ```
 
 ## Final Price column
