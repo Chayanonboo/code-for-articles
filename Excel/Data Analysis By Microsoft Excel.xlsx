@@ -1,6 +1,7 @@
 ## IF function
-```
-IF(J5>=20,"Y","N")
+
+```excel
+=IF(J5>=20,"Y","N")
 
 ## Final Price column
 ```
