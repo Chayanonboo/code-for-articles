@@ -13,3 +13,7 @@ SELECT card_num, name FROM patrons;
 ## Alasing name of SQL
 SELECT name AS firstname, year_hired FROM employees;
 
+## Create View
+CREATE VIEW employee_hires_years AS
+SELECT id, name, year_hired
+FROM employees;
