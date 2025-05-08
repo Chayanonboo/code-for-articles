@@ -1,8 +1,14 @@
 ## IF function
 
 ```python
-IF(J5>=20,"Y","N")
-```
+j5_value = 25
+
+if j5_value >= 20:
+    result = "Y"
+else:
+    result = "N"
+
+print(result)
 
 ## Final Price column
 ```
