@@ -1,4 +1,6 @@
 ## IF function
+
+## Discount Column
 ```
 =IF(J5>=20,"Y","N")
 ```
