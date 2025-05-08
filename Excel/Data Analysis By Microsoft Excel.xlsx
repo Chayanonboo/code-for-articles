@@ -1,7 +1,7 @@
 ## IF function
 
 ```javascript
-=IF(J5>=20,"Y","N")
+IF(J5>=20,"Y","N")
 ```
 
 ## Final Price column
