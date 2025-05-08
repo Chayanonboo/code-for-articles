@@ -1,3 +1,4 @@
+Article of Microsoft Excel : https://chayanonboo.com/2024/12/17/5-steps-of-data-analysis-by-using-microsoft-excel/
 ## IF function
 
 ## Discount Column
@@ -22,4 +23,4 @@
 =VLOOKUP(F5,'Customer Info'!$A$4:$C$12,3,FALSE)
 ```
 -------------------------------------------------------------------
-https://chayanonboo.com/2024/12/17/5-steps-of-data-analysis-by-using-microsoft-excel/
+
