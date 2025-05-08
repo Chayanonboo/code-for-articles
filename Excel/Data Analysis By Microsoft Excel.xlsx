@@ -9,6 +9,7 @@ else:
     result = "N"
 
 print(result)
+```
 
 ## Final Price column
 ```
