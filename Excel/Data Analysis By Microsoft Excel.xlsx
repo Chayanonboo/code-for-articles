@@ -1,6 +1,6 @@
 ## IF function
 
-```javascript
+```python
 IF(J5>=20,"Y","N")
 ```
 
